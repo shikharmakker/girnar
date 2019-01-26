@@ -4,6 +4,10 @@
 	<title></title>
 	<link href="css/header.css" type="text/css" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<script src="js/wow.min.js"></script>
+              <script>
+              new WOW().init();
+              </script>
 </head>
 <body>
 	<div class="icon-bar" style="height: 30px;">
